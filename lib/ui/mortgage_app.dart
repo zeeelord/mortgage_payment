@@ -42,8 +42,8 @@ class _MortgageAppState extends State<MortgageApp> {
               decoration: BoxDecoration(
                 color: Colors.transparent,
                 border: Border.all(
-                  color: Colors.blueGrey.shade100, //TODO: theme this!
-                  style: BorderStyle.solid, // //TODO: theme this!
+                  color: Colors.blueGrey.shade100, 
+                  style: BorderStyle.solid, 
                 ),
                 borderRadius: BorderRadius.circular(12),
               ),
